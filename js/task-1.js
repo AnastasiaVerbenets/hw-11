@@ -38,7 +38,7 @@ function initTimer() {
 
             alert('Time has ended');
         }
-    }, 100);
+    }, 60000);
 }
 
 function updateDisplay() {
